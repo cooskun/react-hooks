@@ -1,0 +1,23 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "A collection of React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooskun/react-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooskun/react-hooks/issues"
+  },
+  "homepage": "https://github.com/cooskun/react-hooks#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
